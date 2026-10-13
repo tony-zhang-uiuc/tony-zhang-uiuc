@@ -36,7 +36,7 @@ seeking software engineering internship opportunities for Summer 2027.
 - Integrated football data and news APIs to support fixture search, team
   information, player rosters, and current headlines.
 
-### Healthcare Policy RAG
+### [Healthcare Policy RAG](https://github.com/tony-zhang-uiuc/Readily-Take-Home)
 
 - Developed a retrieval-augmented generation system for healthcare policy
   documents.
