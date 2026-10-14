@@ -6,7 +6,6 @@ seeking software engineering internship opportunities for Summer 2027.
 
 ## About Me
 
-- Expected graduation: **May 2029**
 - Interests: **software engineering, AI/ML, and full-stack development**
 - Experience across web development, data processing, and deep learning
 
