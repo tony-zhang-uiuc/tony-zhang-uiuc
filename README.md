@@ -42,11 +42,9 @@ seeking software engineering internship opportunities for Summer 2027.
 - Built a document-processing workflow that converted approximately 370 PDFs
   into 7,400 searchable text chunks.
 
-### MNIST CNN
-
-- Built a convolutional neural network for handwritten digit classification.
-- Applied deep learning techniques to image recognition using the MNIST
-  dataset.
+### [Handwritten Digit Recognition](https://github.com/tony-zhang-uiuc/handwritten-digit-recognition)
+- Building a convolutional neural network using PyTorch to classify handwritten digits from the MNIST dataset.
+- Developing a full-stack application with a React drawing interface and Flask REST API for real-time digit predictions.
 
 ## Connect With Me
 
